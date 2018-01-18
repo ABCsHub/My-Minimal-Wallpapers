@@ -1,0 +1,1 @@
+hsetroot -full ~/deformed-cosmic-minimalist.jpeg	# Define as deafult wallpaper
